@@ -1,0 +1,60 @@
+# Google OAuth credentials
+client_secret.json
+token.json
+
+# Composer
+/vendor/
+composer.lock
+
+# Environment files
+.env
+*.env
+.env.local
+.env.*.local
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+/logs/
+php_error.log
+
+# Test files
+test.txt
+test.*
+*.test.*
+
+# Database configuration
+db_config.php
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Cache
+/cache/
+*.cache
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Local development files
+/local/
+local.* 

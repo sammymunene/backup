@@ -1,0 +1,13 @@
+{
+    "name": "munene/http_backup",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Munene\\HttpBackup\\": "src/"
+        }
+    },
+    "require": {
+        "google/apiclient": "^2.18"
+    }
+}
