@@ -132,4 +132,4 @@ tail -f /opt/lampp/logs/php_error.log
 - Check token storage: `http://localhost/backup/check_secret.php`
 
 ## License
-[Your License Here]
+MIT
